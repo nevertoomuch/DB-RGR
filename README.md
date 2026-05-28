@@ -35,7 +35,7 @@
 ├── README.md        — описание
 ├── schema.sql       — создание таблиц, ограничений, индексов
 ├── data.sql         — тестовые данные
-├── queries.sql      — 10 SQL-запросов
+├── queries.sql      — 20 SQL-запросов
 └── diagram.png      — ER-диаграмма
 ```
 
